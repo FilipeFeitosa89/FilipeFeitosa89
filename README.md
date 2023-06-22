@@ -1,4 +1,8 @@
-### Hi there 👋
+# Olá, pessoas! Sou o Filipe Feitosa!
+
+Tenho 33 anos, sou formado em biologia e migrando para área de tecnologia. Buscando aprender e expandir meus conhecimentos na área de programação sempre que possível.
+Atualmente estou cursando técnico em Desenvolvimento de Sistemas. Aprendendo HTML, CSS, Java e um pouquinho de Python.
+Especialista em curiosidades aleatórias e, geralmente, inúteis. 
 
 <!--
 **FilipeFeitosa89/FilipeFeitosa89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
