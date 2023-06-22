@@ -4,7 +4,15 @@ Tenho 33 anos, sou formado em biologia e migrando para área de tecnologia. Busc
 
 🌱 Atualmente estou cursando técnico em Desenvolvimento de Sistemas.
 <br>
+<br>
 📚 Aprendendo HTML, CSS, Java e um pouquinho de Python.
+<br>
+<br>
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/>
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/>
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/>
+<img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "PYTHON"/>
+<br>
 <br>
 ⚡ Especialista em curiosidades aleatórias e, geralmente, inúteis. 
 
