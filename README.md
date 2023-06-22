@@ -14,7 +14,7 @@ Tenho 33 anos, sou formado em biologia e migrando para área de tecnologia. Busc
 <img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "PYTHON"/>
 <br>
 <br>
-⚡ Especialista em curiosidades aleatórias e, geralmente, inúteis. 
+⚡ Especialista em curiosidades aleatórias e geralmente inúteis. 
 
 <!--
 **FilipeFeitosa89/FilipeFeitosa89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
